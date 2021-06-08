@@ -1,2 +1,9 @@
 # Disease Outbreak
- a project for a friend of mine, doing regression and classification for the number of infected people in certain place & under certain conditions
+ ## A project for a friend of mine. 
+ ## The data shows the num. of infected people in a location for a certain date and weather conditions.
+
+ ## The processes done:
+  * Cleaning the data and preparing it.
+  * Regression and forecasting the number of cases each day. 
+  * Classification for the number of infected people, High/Medium/Low.
+
